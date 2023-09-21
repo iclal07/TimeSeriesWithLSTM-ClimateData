@@ -1,6 +1,6 @@
-# Jean Climate Time Series Projesi
+# Jena Climate Time Series Projesi
 
-Bu proje, Jean Climate veri setini kullanarak bir zaman serisi tahmin modeli oluşturmayı amaçlar. Proje, veri setinin yüklenmesi,verinin temizlenmesi, modelin eğitimi ve sonuçların değerlendirilmesi aşamalarını içermektedir.
+Bu proje, Jena Climate veri setini kullanarak bir zaman serisi tahmin modeli oluşturmayı amaçlar. Proje, veri setinin yüklenmesi,verinin temizlenmesi, modelin eğitimi ve sonuçların değerlendirilmesi aşamalarını içermektedir.
 
 ## Veri Seti
 
@@ -48,9 +48,9 @@ Time Series Cross Validation, model geliştirme sürecinde önemli bir adımdır
 
 Bu README dosyası, projenin temel bileşenlerini ve neden belirli metrikleri kullandığımızı anlatır. Projeyi incelediğinizde, modelin eğitimini ve sonuçlarını daha ayrıntılı olarak görebilirsiniz.
 
-# EN Jean Climate Time Series Project
+# EN Jena Climate Time Series Project
 
-This project aims to build a time series forecasting model using the Jean Climate dataset. The project consists of loading the dataset, cleaning the data, training the model and evaluating the results.
+This project aims to build a time series forecasting model using the Jena Climate dataset. The project consists of loading the dataset, cleaning the data, training the model and evaluating the results.
 
 ## Data Set
 
