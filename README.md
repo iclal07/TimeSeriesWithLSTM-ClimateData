@@ -48,7 +48,7 @@ Time Series Cross Validation, model geliştirme sürecinde önemli bir adımdır
 
 Bu README dosyası, projenin temel bileşenlerini ve neden belirli metrikleri kullandığımızı anlatır. Projeyi incelediğinizde, modelin eğitimini ve sonuçlarını daha ayrıntılı olarak görebilirsiniz.
 
-# EN Jena Climate Time Series Project
+# (EN) Jena Climate Time Series Project
 
 This project aims to build a time series forecasting model using the Jena Climate dataset. The project consists of loading the dataset, cleaning the data, training the model and evaluating the results.
 
